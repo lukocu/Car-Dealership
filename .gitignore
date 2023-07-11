@@ -1,0 +1,39 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+logs/
+*.log
+
+# Compiled files
+bin/
+out/
+build/
+target/
+dist/
+
+# Dependency directories
+lib/
+libs/
+dependencies/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+
+/src/main/resources/traffic-simulation.md
